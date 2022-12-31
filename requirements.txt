@@ -8,3 +8,4 @@ requests-oauthlib
 docker
 urllib3
 pywinrm
+jxmlease
